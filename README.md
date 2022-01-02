@@ -1,14 +1,14 @@
-<h3 align="center">💝white_sr💝</h3>
+<h3 align="center">💝WHITE-SR💝</h3>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+white_sr+WA+Bot...;Created+by+WHIT...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+WHITE-SR+WA+Bot...;Created+by+WHIT...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="IMG_20220102_093750.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="white_sr" src="https://img.shields.io/badge/white_sr-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WHITE-SR" src="https://img.shields.io/badge/WHITE-SR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/whitesr09"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/white_sr?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/whitesr09"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/WHITE-SR?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/whitesr09">whitesr09</a> to make 
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/whitesr09/white_sr&title=white_sr%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/whitesr09/WHITE-SR&title=WHITE-SR%20Views)
 
 get extra feturs use maalutty v3😍⏬
 
@@ -35,15 +35,15 @@ get extra feturs use maalutty v3😍⏬
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whitesr09/white_sr) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whitesr09/WHITE-SR) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/whitesr09/white_sr
-$ cd white_sr
+$ git clone https://github.com/whitesr09/WHITE-SR
+$ cd WHITE-SR
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node maalutty.js
@@ -51,8 +51,8 @@ $ node maalutty.js
       
 ```js
 SETUP
-$ git clone https://github.com/whitesr09/white_sr
-$ cd white_sr
+$ git clone https://github.com/whitesr09/WHITE-SR
+$ cd WHITE-SR
 $ npm i
 $ node maalutty.js
 ```
@@ -60,15 +60,15 @@ $ node maalutty.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/whitesr09/white_sr">
+  <a href="httsp://github.com/whitesr09/WHITE-SR">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/whitesr09/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/whitesr09?color=blue&style=flat-square"></a>
-<a href="https://github.com/whitesr09/white_sr/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/whitesr09/white_sr?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/whitesr09/white_sr/network/members"><img title="Forks" src="https://img.shields.io/github/forks/whitesr09/white_sr?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/whitesr09/WHITE-SR/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/whitesr09/WHITE-SR?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/whitesr09/WHITE-SR/network/members"><img title="Forks" src="https://img.shields.io/github/forks/whitesr09/WHITE-SR?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -96,9 +96,9 @@ Click WA logo to Join public bot Group👇
 
 [![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
 
-### ❤️ white_sr 💙 website⤵️
+### ❤️ WHITE-SR 💙 website⤵️
 
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://white_srnijinhusni.blogspot.com)
+[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://WHITE-SRnijinhusni.blogspot.com)
 
 
 ### ⚠️ Warning! 
