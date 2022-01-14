@@ -1,6 +1,6 @@
 <h3 align="center">💝WHITE-SR💝</h3>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+WHITE-SR+WA+Bot...;Created+by+WHIT...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+WHITE-SR+WA+Bot...;Created+by+WHITE...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="IMG_20220102_093750.jpg" width="200" height="200"/>
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/whitesr09">whitesr09</a> to make 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/whitesr09/WHITE-SR&title=WHITE-SR%20Views)
 
-get extra feturs use maalutty v3😍⏬
+get extra feturs use WHITE-SER v2😍⏬
 
 [![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=whitesr09&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/whitesr09/MAALUTTY_V3)
   </div>
@@ -87,18 +87,14 @@ Click WA logo to Join public bot Group👇
 
   </div>
 
-### youtube👇
-
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
 
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/__nshd.__/)
 
 ### ❤️ WHITE-SR 💙 website⤵️
 
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://WHITE-SRnijinhusni.blogspot.com)
 
 
 ### ⚠️ Warning! 
